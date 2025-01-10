@@ -1,0 +1,5 @@
+docling==2.15.1
+openai==1.59.6
+PyYAML==6.0.2
+PyYAML==6.0.2
+torch==2.5.1+cpu
